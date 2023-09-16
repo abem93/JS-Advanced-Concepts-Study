@@ -19,4 +19,8 @@ Destructuring
  seem pretty straight forward just need pracice using it.
 
  Spread Operator
- - the '...' I have used this before and had some slight knowledge of how to use it but it explained better and howand why to use. It allows array items to be spread out into individual arguements for function calls.
+ - the '...' I have used this before and had some slight knowledge of how to use it but it explained better and howand why to use. It allows array items to be spread out into individual arguements for function calls as well as arrays and objects.
+
+ Memoization
+ -caching the value of previous results, that way it makes the program more efficient.
+ 
