@@ -27,5 +27,8 @@ Destructuring
  Callback
  - a call back is just a function that you pass as a parameter to another function. Essentially a nested function. Once that function is done it calls back to the original function to continue running its code. 
 
- Async/Await/Promises
- - 
+ Async Await/Promises
+ - instead of doing set timeouts, promises basically allow for a late execution of functions. To grab data or errors.
+ - Not really sure what promise really do. Seems like a built in class
+ - await keyword to await response from function call usually to an api
+
