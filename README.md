@@ -9,3 +9,8 @@ Builder Pattern
 Fascade Pattern
 -Basically create a function that contains all the similar information and takes in a parameter the only in formation that changes such as a url.
 
+Observer pattern
+-an object that updates something and then notifies observers when changes happen. 
+- unsure how functions happen in there.
+  - after class made more sense.
+
