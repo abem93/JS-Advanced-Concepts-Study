@@ -22,5 +22,10 @@ Destructuring
  - the '...' I have used this before and had some slight knowledge of how to use it but it explained better and howand why to use. It allows array items to be spread out into individual arguements for function calls as well as arrays and objects.
 
  Memoization
- -caching the value of previous results, that way it makes the program more efficient.
- 
+ - caching the value of previous results, that way it makes the program more efficient.
+
+ Callback
+ - a call back is just a function that you pass as a parameter to another function. Essentially a nested function. Once that function is done it calls back to the original function to continue running its code. 
+
+ Async/Await/Promises
+ - 
