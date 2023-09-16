@@ -17,3 +17,6 @@ Observer pattern
 Destructuring
 - Allows you to access and you use properties and variables in objects and arrays in a more efficient and cleaner way
  seem pretty straight forward just need pracice using it.
+
+ Spread Operator
+ - the '...' I have used this before and had some slight knowledge of how to use it but it explained better and howand why to use. It allows array items to be spread out into individual arguements for function calls.
