@@ -16,3 +16,4 @@ Observer pattern
 
 Destructuring
 - Allows you to access and you use properties and variables in objects and arrays in a more efficient and cleaner way
+ seem pretty straight forward just need pracice using it.
